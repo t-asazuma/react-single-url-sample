@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Start-Class: com.github.t_asazuma.react.single.url.sample.Application
+Main-Class: org.springframework.boot.loader.JarLauncher
+
